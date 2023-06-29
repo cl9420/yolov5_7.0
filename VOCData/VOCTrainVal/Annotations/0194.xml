@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>0194.jpg</filename>
+	<path>E:\1A表面检测文件\yolov7-pytorch-master\yolov7-pytorch-master\VOCdevkit\VOC2007\JPEGImages\0194.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LW</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1345</xmin>
+			<ymin>1</ymin>
+			<xmax>1616</xmax>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+</annotation>
