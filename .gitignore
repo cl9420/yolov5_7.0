@@ -1,4 +1,3 @@
-VOCData\VOCTrainVal
 # Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
 *.xml
 *.jpg
@@ -29,6 +28,7 @@ storage.googleapis.com
 runs/*
 data/*
 data/images/*
+VOCData/VOCTrainVal/*
 !data/*.yaml
 !data/hyps
 !data/scripts
