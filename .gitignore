@@ -28,7 +28,7 @@ storage.googleapis.com
 runs/*
 data/*
 data/images/*
-VOCData/VOCTrainVal/*
+VOCData/*
 !data/*.yaml
 !data/hyps
 !data/scripts

@@ -15,7 +15,7 @@ trainval = random.sample(list, tv)
 train = random.sample(trainval, tr)
 
 print("train and val size", tv)
-print("traub suze", tr)
+print("train size", tr)
 ftrainval = open(os.path.join(saveBasePath, 'Main/trainval.txt'), 'w')
 ftest = open(os.path.join(saveBasePath, 'Main/test.txt'), 'w')
 ftrain = open(os.path.join(saveBasePath, 'Main/train.txt'), 'w')

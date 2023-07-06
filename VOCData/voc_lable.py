@@ -7,7 +7,7 @@ import shutil
 
 sets = [('TrainVal', 'train'), ('TrainVal', 'val'), ('TrainVal', 'test')]
 
-classes = ["PE", "LW"]
+classes = ["LW", "PE"]
 
 
 def convert(size, box):
